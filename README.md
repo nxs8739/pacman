@@ -1,6 +1,6 @@
 # Pacman
 
-- Project Demo Link: [bsllc.xyz](https://games.bsllc.xyz/pacman)
+- Project Demo Link: [Here](https://games.bsllc.xyz/pacman)
 
 ### Copyright
 This game is created by [passer-by.com](https://passer-by.com/), please respect the author and cite the source when referencing.
