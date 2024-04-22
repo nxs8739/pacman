@@ -1,16 +1,17 @@
-# Pacman 吃豆游戏
+# Pacman
 
-- 项目演示(DEMO)地址：https://passer-by.com/pacman/
+- Project Demo Link: [bsllc.xyz](https://games.bsllc.xyz/pacman)
 
-### 版权
-本游戏由 [passer-by.com](https://passer-by.com/) 制作，请尊重作者，引用请注明来源。
+### Copyright
+This game is created by [passer-by.com](https://passer-by.com/), please respect the author and cite the source when referencing.
 
-功能
+Features
 
-- [x] 地图绘制
-- [x] 玩家控制
-- [x] NPC根据玩家坐标实时自动寻径
-- [x] 吃豆积分系统
-- [x] 能量豆功能
-- [x] 多关卡(共12关)
-- [ ] 特殊物品记分
+- [x] Map drawing
+- [x] Player control
+- [x] NPCs dynamically pathfinding based on player coordinates
+- [x] Bean-eating scoring system
+- [x] Power bean functionality
+- [x] Multiple levels (12 in total)
+- [ ] Special item scoring
+
